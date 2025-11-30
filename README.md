@@ -573,7 +573,7 @@ The system detects:
 
 ## 👥 Authors
 
-- Student Name: khadija Haider
+- Student Name: Khadija Haider
 - Course: Agentic AI Assignment 3
 - Institution: National University of Computer and Emerging Sciences
 - Course Instructor: Mr. Usama Imtiaz
