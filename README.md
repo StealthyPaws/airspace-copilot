@@ -573,9 +573,10 @@ The system detects:
 
 ## 👥 Authors
 
-- Student Name: [Your Name]
+- Student Name: khadija Haider
 - Course: Agentic AI Assignment 3
-- Institution: [Your Institution]
+- Institution: National University of Computer and Emerging Sciences
+- Course Instructor: Mr. Usama Imtiaz
 
 ## 📄 License
 
